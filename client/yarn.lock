@@ -4770,10 +4770,10 @@ react-player-controls@^1.1.0:
     autobind-decorator "^2.4.0"
     prop-types "^15.6.2"
 
-react-player@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/react-player/-/react-player-2.0.1.tgz#4d80f2a50ad07f26a220ff5cd0f225e72cb69df7"
-  integrity sha512-QG/NutOfDq4FF/7nzMDzM4nmb8ExVES/5n973NSZgZ/1iE6ObmhDOau9gO67NPYOQv/RhOJ4S8b0g9bVAdK9vA==
+react-player@^2.6.0:
+  version "2.6.0"
+  resolved "https://registry.yarnpkg.com/react-player/-/react-player-2.6.0.tgz#5b425d5c8514b552c29af353adb232f4dbb0bdcf"
+  integrity sha512-RLzAnHO00ZA5VnAZX6A6SGfCKQLOEcBGOM4POWAQkugh0VY2HjWUOYbHVt/7xeogyK3E1fP9dOxoPyLv8lBZ/A==
   dependencies:
     deepmerge "^4.0.0"
     load-script "^1.0.0"
