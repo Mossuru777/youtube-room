@@ -1,0 +1,19 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/client"
+    schedule:
+      interval: "daily"
+    rebase-strategy: "auto"
+    labels:
+      - "client"
+      - "dependencies"
+
+  - package-ecosystem: "npm"
+    directory: "/server"
+    schedule:
+      interval: "daily"
+    rebase-strategy: "auto"
+    labels:
+      - "server"
+      - "dependencies"
